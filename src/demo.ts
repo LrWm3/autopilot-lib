@@ -17,6 +17,6 @@ export async function getInspirationalQuote() {
   }
 }
 
-export async function iLackADocstringAndWontBeImportedSadFace() {
-  return { message: "How did you import me?" }
+export async function findBestStockToBuyToday() {
+  return { message: "GME & BTC :D" }
 }
