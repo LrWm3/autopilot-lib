@@ -1,4 +1,4 @@
-import { fetch } from "https://deno.land/x/fetch/mod.ts";
+import $ from "https://deno.land/x/dax/mod.ts";
 
 /**
  * Fetches an inspirational quote from the GoProgram API.
